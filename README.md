@@ -24,6 +24,7 @@ The project uses a university exam scheduling dataset with the following compone
 - Student enrollment data
 - Available timeslots
 - Schedule of student-course-instructor relationships
+- The link of it https://www.kaggle.com/datasets/smrezwanulazad/exam-schedule
 
 ## Features
 
