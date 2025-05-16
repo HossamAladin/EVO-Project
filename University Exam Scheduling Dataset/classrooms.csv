@@ -1,0 +1,10 @@
+classroom_id,building_name,room_number,capacity,room_type
+8,B,267,41,Lecture Hall
+20,E,665,26,Lecture Hall
+3,B,710,46,Classroom
+11,G,203,24,Classroom
+2,K,144,24,Classroom
+22,L,958,38,Lab
+17,C,403,37,Lab
+26,L,933,22,Lab
+27,A,716,44,Lab

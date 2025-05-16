@@ -1,0 +1,401 @@
+student_id,first_name,last_name,email,phone_number,address,program_name,year
+21bc9a71-d2ae-496e-97ee-11fce7030c3d,William,Ramirez,christianduncan@example.com,+1-999-869-0090,"463 Maria Tunnel Apt. 156
+Lake Alexis, ID 31843",B.Sc. in Healthcare Informatics,Senior
+af1bdbb8-c351-47bb-a7d1-3ea1b612dfc1,Dustin,Mckinney,ohart@example.org,987.909.9002x0530,"776 Joshua Plains
+New Abigailberg, NE 00884",M.Sc. in Applied Chemistry and Environmental Engineering,Senior
+5b472a51-06a8-4b5a-92db-c38508bce025,Caleb,Harris,david81@example.org,+1-813-676-8047x80586,"6932 Emma Passage
+West Kristen, ND 97689",B.Sc. in Applied Mathematics,Sophomore
+ce17f2c5-a5f4-4d5a-89a0-c22da5d0ed9b,Thomas,Grant,lluna@example.com,867-237-0166x23326,"47410 Stewart Burgs
+Smithfurt, NC 11401",B.Sc. in Artificial Intelligence,Freshman
+ee0dbfba-3e26-4b8b-912c-77e6d06c272a,Mike,Klein,wmueller@example.org,001-526-611-1739x177,"6157 Erika Corner
+Johnsonville, ND 15371",B.Sc. in Applied Mathematics,Senior
+0583e5ee-b4ad-44c4-b1af-de61ab1527d4,Melissa,Brennan,stephanie39@example.net,669-448-6814x2842,"74614 James Rue
+North Megan, LA 16946",M.Sc. in Mechatronics,Sophomore
+1a5dfaf5-258d-4176-9bc6-82111c6194d4,Lynn,Lee,hahnkristine@example.net,581-337-2933x685,"2564 Carla Mission
+West Jeremy, AK 03497",M.Sc. in International Management,Sophomore
+6b1472bf-0f9b-488c-9407-8e35c42dbeed,Seth,Mullins,sleblanc@example.net,001-613-925-1036x290,"406 Murphy Cliff
+Millermouth, MO 67265",B.Sc. in Artificial Intelligence,Junior
+7bfe1792-4e5b-4865-b3ae-67412e24b014,Brittany,Nguyen,hoovermargaret@example.org,001-445-818-5276x52779,"Unit 3292 Box 9115
+DPO AE 41425",B.A. in International Management,Junior
+c263017a-2631-4bdd-ad00-16d0dc4491c5,Megan,Hogan,xwalker@example.net,210-278-7733,"2782 Lloyd Hills Suite 299
+Dannyshire, WV 76102",B.A. in Business Informatics,Senior
+d85094ad-37e2-4d69-96ea-6dbb0293398d,Bob,Sullivan,gabrielle16@example.org,(652)223-5047x245,"6123 Henry Turnpike Apt. 416
+West Spencer, WI 32138",B.Sc. in Applied Mathematics,Freshman
+87246264-13e1-45b6-8e63-8b5fab00e932,Amanda,Perry,laura42@example.com,001-957-580-0378x93355,"82298 Robin Rapid
+Lowestad, AR 50997",M.Sc. in Applied Physics,Freshman
+23ddcbe2-c751-4235-8105-ef8dc3eb7fb9,Michael,Moore,chasemichael@example.org,(670)820-8090x809,"02674 Christopher Spurs Apt. 226
+Cameronland, NE 17487",M.Sc. in Applied Physics,Freshman
+012ed15e-7f30-42f0-8601-4e6f37e48cb1,Mary,Mendoza,estradayvonne@example.com,309.290.4849x841,"88374 Greene Stravenue Apt. 404
+Port Tammy, AL 57790",B.Sc. in Applied Mathematics,Sophomore
+40797088-5825-4db4-a034-818c47385b11,Angelica,King,michaeljimenez@example.net,308-296-9022,"1216 Mitchell View
+Port Brandyfort, IN 74166",B.Sc. in Applied Computer Science,Senior
+e2bac550-27ba-4fc9-916c-75536e460b3e,Elizabeth,Burch,millermichael@example.com,706-604-0018x7545,"44667 Lori Harbor
+Kelseyfort, NY 71285",M.Sc. in Applied Physics,Junior
+810352f6-c4e1-45bb-bcc9-484247ed265a,Mark,Mendoza,cynthia37@example.org,(651)308-5378,"4503 Page Burgs Apt. 490
+Robertborough, MO 98392",M.Sc. in Mechatronics,Sophomore
+7a9ad070-7c38-4353-a41c-dcf7bb8e50a3,Tammy,Chaney,rtucker@example.com,001-813-991-1384x0816,"175 Misty Via Apt. 506
+Englishfurt, OK 03519",M.Sc. in Applied Mathematics,Freshman
+687c9e95-f6b5-41a8-87e0-a940d25dd620,Eric,Jefferson,scochran@example.org,851-213-4006,"20209 Candice Curve Suite 740
+East Martin, ID 26109",M.Sc. in Technology and Management,Senior
+5e0242e4-71ca-4fdf-9ef6-f8b425ab7ded,Billy,Allen,christine67@example.net,353.214.7736x4879,"751 Norton Expressway
+South Margaretside, PR 71426",M.Sc. in Applied Mathematics,Sophomore
+d041d3ec-d9a6-4b43-8a70-01101fc16ce6,Sarah,Ferguson,alec74@example.com,001-837-693-7494x2859,"2785 Diana Fort
+Stewartstad, OR 63120",M.Sc. in International Management,Freshman
+57548b21-cfac-4a9e-b3aa-0268bf4e454a,Amy,Schultz,donna88@example.org,605.888.9514x50999,"4586 Kimberly Vista
+East Adam, KY 57781",B.Sc. in Applied Computer Science,Senior
+18e6b005-ca44-4e0c-b747-3c18ef064363,Zachary,Davidson,katkinson@example.com,(201)621-8904x8240,"32343 White Inlet Apt. 392
+Port Andreamouth, MP 54631",M.Sc. in Applied Computer Science,Junior
+b547a75c-01d5-4f4a-b9be-d439d67e5c22,Melissa,Taylor,lindsey41@example.com,+1-789-965-5842x491,"05528 Henry Lodge Apt. 363
+Johnsonmouth, AL 26013",M.Sc. in Applied Chemistry and Environmental Engineering,Sophomore
+ba606cf9-8932-4465-a2c7-70013807e0d6,Tracy,Perez,xcrosby@example.org,+1-573-698-6235,"PSC 8161, Box 9328
+APO AE 76156",B.Sc. in Healthcare Informatics,Junior
+53f8df97-b8df-4ef9-a727-f426f79f299b,Sarah,Whitney,christopher01@example.net,+1-558-347-6046x0737,"81560 Alexander Ranch Apt. 927
+Claudiabury, IA 40925",M.Sc. in Media Technology and Design,Senior
+48b3cc9a-cb53-4905-886e-e761bea06670,Keith,Mcgrath,lynchrebecca@example.org,001-833-343-5055x527,"551 Nicholas Centers
+Brownville, DE 59889",B.Sc. in Media Technology and Design,Sophomore
+66f5c855-572f-4003-8b41-8e0faff985bc,Jeffrey,Walker,lisa68@example.com,+1-587-219-5317x07431,"120 Angela Mountains
+New Sandraton, NJ 64701",M.Sc. in Mechatronics,Sophomore
+daf13ebd-432e-4c97-adf3-9ba720bb8a0b,Jessica,Lee,reidjoseph@example.net,(588)374-6871x535,"236 Snyder Expressway
+West Brad, SC 60721",B.A. in Business Informatics,Senior
+4efe0682-f00b-489e-9c36-94d9cd05ddf8,Marc,Morales,wgarcia@example.net,444-929-7179x2410,"562 Hill Place Suite 279
+New Kathrynborough, PA 33971",M.Sc. in Mechatronics,Sophomore
+d7fab4cb-c3e3-4d46-9c67-57b79260221a,David,Morgan,dodsonrobert@example.org,001-923-593-2970,"35415 Rebecca Pike Suite 681
+Garciatown, SD 43539",B.Sc. in Artificial Intelligence,Sophomore
+c72a8b71-e0f0-461e-afa6-8039fde9d2c1,Kyle,Smith,kgriffin@example.net,211-316-1394x928,"USCGC Williams
+FPO AE 99038",M.Sc. in Applied Chemistry and Environmental Engineering,Sophomore
+d1839cb6-388c-423b-9ddd-bbf65f3dfa20,Amanda,King,jamesmichael@example.net,001-626-852-4459x599,"Unit 0212 Box 1659
+DPO AA 47707",M.Sc. in Applied Computer Science,Sophomore
+10231bd1-fd78-41f2-adf3-289ad8a7eb95,Mark,Quinn,kfreeman@example.org,566.370.4271,"70273 Shaw Unions
+Josephland, TN 61337",M.Sc. in Business Informatics,Junior
+1d4ff360-2eb8-4206-b5a9-e6a494121e59,Kathryn,Brown,wburgess@example.net,001-656-411-7968x229,"7474 Garcia Squares
+Hollymouth, TN 29612",M.Sc. in Applied Chemistry and Environmental Engineering,Senior
+6dc87e63-e609-4e5b-a434-fc042bf07376,Michael,Jenkins,jonathan83@example.net,343.402.6690,"696 Terri Path Suite 372
+South Martin, PW 19209",M.Sc. in Business Informatics,Senior
+b0ce0029-2e3a-4f51-b532-7fa1b1b10115,Tracey,Walls,swilliams@example.org,(324)300-0054x29774,"008 Brandon Manors
+Lake Nancyport, NV 38329",M.Sc. in Electrical Engineering and Information Technology,Freshman
+e72354f4-644e-4d4e-b401-b6d182ee71ee,Christine,Higgins,gregorymiller@example.net,998-556-4189x46574,"29032 Deborah Plains
+Aguilarborough, WA 27721",B.Sc. in Applied Mathematics,Freshman
+7b5271a0-ce8b-498a-87ec-b2ab141d1868,Justin,Perez,aberry@example.org,+1-842-758-7712x9978,"542 Christina Greens Suite 621
+Patrickland, OH 85820",B.Sc. in Healthcare Informatics,Senior
+be14e7b4-0922-42b7-8af5-776372eeb167,Joanne,Harris,melissasparks@example.com,+1-557-404-7381x9248,"99156 Orozco Vista Apt. 317
+Lake Tammy, TN 23223",B.Sc. in Media Technology and Design,Senior
+586925a4-4efc-4b0a-b4ec-f3200e070623,Jose,Ferguson,qhuang@example.com,5676230788,"737 Daniels Island Suite 856
+Tylerberg, DC 04152",M.Sc. in Applied Physics,Freshman
+99ad6641-b1c3-4217-8efe-afba5688d50e,Travis,Love,bhodges@example.org,876.763.6587x27377,"58790 Lee Island
+West Reginabury, FL 67169",B.Eng. in Electrical Engineering,Senior
+20bc7ab0-7504-4157-b98b-d16dd971e7de,Laura,Harper,hardinggregory@example.net,697-426-6714,"1255 Bray Meadow Suite 861
+Hallfurt, TX 30350",B.Sc. in Applied Physics,Junior
+86ea9bff-ac06-46f2-b0cf-c5ce4615ae5f,Ana,Martinez,david98@example.org,(205)992-1901x83038,"9310 Mitchell Wall Suite 198
+East Leslie, WA 61741",M.Sc. in Applied Mathematics,Junior
+56ab3db9-7b4f-4e0e-86f3-28836841d086,Juan,Edwards,jason94@example.net,(998)388-8604x958,"USCGC Bridges
+FPO AP 57654",B.Eng. in Electrical Engineering,Sophomore
+b3e1de6a-4932-46bf-a24d-7b2899bcb6e1,Mariah,Stewart,ulee@example.com,(392)877-7847,"5647 Santos Isle
+Andersenbury, MI 27474",M.Sc. in Technology and Management,Sophomore
+e40a60fa-ffb4-4348-9229-aa23bd95215d,Kevin,Reed,brownmelissa@example.net,708-874-6425x6671,"9853 Singleton Tunnel
+Alexanderville, WV 56004",B.Eng. in Electrical Engineering,Sophomore
+cf3f4d4d-a2c5-40de-b227-ba02d28a3f7d,Brandon,Morgan,john32@example.com,+1-501-356-8031,"767 Hamilton Corner
+Mccluremouth, SC 52385",M.Sc. in International Management,Sophomore
+ae4730ed-1a67-43c5-9371-f7d9838a9953,Joseph,Knapp,benjamingentry@example.org,876.266.4391x82755,"364 Rubio Trail
+Kimberlyhaven, ID 35007",M.Sc. in Technology and Management,Junior
+a65ec5fc-7038-4bb0-b359-f67684e7cef1,Laura,Deleon,hdavis@example.com,893-944-3669,"52517 Roberts Locks
+Kristifurt, WA 58864",M.Sc. in Business Informatics,Senior
+663d21c8-93e6-4b03-9b3e-7fa5f8f044f9,William,Brown,berryangela@example.org,+1-667-715-6886x1884,"43927 Meyer Mills
+South Heidiside, GU 09050",B.Sc. in Applied Computer Science,Junior
+5d32ba08-6835-4465-b15e-c3891e41e132,Christian,Jones,jill43@example.org,001-384-542-4019x167,"084 Smith Ford Apt. 435
+Hannahview, IL 42065",B.A. in Business Informatics,Senior
+ebf36605-e8e7-4d94-8b87-c719c26990e9,Corey,Hicks,joshuaosborne@example.com,001-292-858-8602,"030 Williams Burgs
+Samuelland, MI 67329",M.Sc. in Mechanical Engineering,Senior
+a85f581c-ae6a-41ba-9df1-71ea1b09167d,Michael,Peters,wsanchez@example.org,331-315-8656x460,"91584 Kelsey Wells Apt. 091
+Lake Veronicaborough, WV 54909",M.Sc. in Applied Physics,Junior
+17a59d06-8135-4371-8052-505c27a71ee1,Melanie,Gomez,lori24@example.com,829.413.9746,"9622 David Greens
+New Kevin, AL 63766",M.Sc. in Applied Chemistry and Environmental Engineering,Junior
+523293a9-ff04-47e0-8107-9d2c1b76faa3,Katherine,Mccoy,wmiddleton@example.net,(765)468-2252x33343,"41490 Wanda Parkways Apt. 628
+Riverafort, CT 50816",B.Eng. in Mechatronics,Senior
+67087b54-c5ad-449c-b560-3133b6b85dba,Mary,Coffey,dmorton@example.net,001-281-251-7431x974,"471 Vaughan Haven Apt. 487
+Georgeland, WV 67930",M.Sc. in Media Technology and Design,Senior
+8b4dc19a-0cb6-4acf-8ead-2145edc84cba,Charles,Nelson,sgarza@example.com,+1-620-339-1470x202,"78304 Cody Burgs
+Froststad, TX 42803",M.Sc. in Healthcare Informatics,Senior
+1104c2cb-e34d-453e-88d6-1e238ac59c8b,Diane,Abbott,alexandrabailey@example.org,729.669.4816x81498,"5963 Johnson Track Suite 006
+Kennethmouth, CO 33268",M.Sc. in Mechatronics,Sophomore
+1b8fced6-522d-4596-9381-ec5b0fbdbfd5,Bryan,Camacho,thomasmark@example.net,(623)391-0982x2259,"366 Ryan Divide Apt. 147
+South Chad, SC 92844",M.Sc. in Technology and Management,Senior
+ea54f6a0-2ba6-44e6-9e9c-4ea569aba48d,Kayla,Campbell,sabrina08@example.org,8978968113,"696 Jackson Point Suite 921
+East Brendafurt, VI 40747",M.Sc. in Business Informatics,Junior
+30ca4078-eb71-4859-b072-54cd863c5803,Elizabeth,Snow,jessicajones@example.com,324-830-3520,"998 Tammy Passage Apt. 209
+Paynefort, WA 87807",M.Sc. in Technology and Management,Sophomore
+e52254d8-4128-442e-8965-d89ca62bd957,Daniel,French,vwilliamson@example.com,+1-296-901-5766x37183,"6181 Richard Course
+Jenniferbury, MT 25725",B.Sc. in Artificial Intelligence,Senior
+dfab75b4-805a-49cf-9a23-bd91d317b9e9,Stephen,Davis,reynoldsdavid@example.org,3768891674,"813 Bush Fall Apt. 243
+Watkinstown, OR 99000",B.Sc. in Applied Physics,Junior
+ffaaff99-e665-44e8-a394-81c25f03b32b,Heather,Bush,jasonnavarro@example.org,(860)782-1645x03573,"826 Patricia Village
+Port John, AL 37414",M.Sc. in Business Informatics,Freshman
+3fc7fefd-0017-4616-bee2-de81bac0151f,Alan,Johnson,rhondawong@example.org,329-969-6657x467,"2937 Andrea Glen Apt. 669
+Clinebury, OH 18867",B.Sc. in Healthcare Informatics,Sophomore
+f3c94d23-7c6b-42bf-a1f4-7ed40f3d892b,David,Smith,sylviadavis@example.net,(559)640-6768x8537,"204 Sarah Oval
+Nicholsmouth, MH 37100",B.Sc. in Applied Mathematics,Senior
+7098e5e1-9cf0-4645-baf9-f336529703d8,Chase,Duran,valeriecarter@example.org,884-336-0736,"PSC 6012, Box 0210
+APO AP 85498",B.A. in International Management,Sophomore
+82de1efd-3c7f-44fb-a073-153d9bc716df,Erin,Miller,nparsons@example.org,001-389-359-9721x049,"348 Dustin Walk Suite 425
+Christinabury, ND 32795",M.Sc. in Mechatronics,Sophomore
+768cb615-3dca-40ff-99ab-46d883a58296,Katie,Kaufman,pporter@example.com,(708)839-5471x36423,"6124 Hannah Motorway Apt. 091
+Robertberg, WI 13121",M.Sc. in International Management,Senior
+abcf8681-5eae-4fa6-8d71-4983f63b4e03,Veronica,Allen,dana47@example.net,6104615926,"32806 Miller Haven Apt. 616
+Murrayview, MT 82725",M.Sc. in Healthcare Informatics,Freshman
+429a26d7-0252-4df8-ba10-f2642952b7d5,David,Gill,bobcannon@example.net,001-886-577-9984,"190 Julie Highway
+Salasview, NC 48524",B.Sc. in Applied Computer Science,Junior
+18c76596-a10a-4bc8-9a34-84b04c6ea1b4,Donna,Moon,tsosa@example.org,001-312-924-0538,"56047 Zachary Lock
+Courtneytown, VI 35624",M.Sc. in Applied Physics,Junior
+8c012dca-32ac-4bdc-8624-91ba9590f006,Trevor,Griffin,ycoleman@example.org,4619211982,"90762 Victoria Lakes
+Oscarchester, VA 28060",M.Sc. in Business Informatics,Sophomore
+1239b18a-7f59-463e-a1bf-617ff9aca809,Natasha,Brown,christopherpatton@example.net,974.746.1432,"0565 Kathleen Summit
+Lake Ruben, GA 07455",M.Sc. in Technology and Management,Freshman
+1c791abe-0385-411c-96b1-53fd56cca68b,Mark,Arnold,danielwolfe@example.org,(662)207-9781,"9601 Cook Manor Suite 987
+Stricklandchester, ND 59684",M.Sc. in Electrical Engineering and Information Technology,Junior
+f4eea273-d80b-4068-b2b8-73a0020a9974,Stacey,Beltran,christinejackson@example.net,001-492-665-4907x53792,"78397 Dale Locks
+New Lisaland, ND 98037",M.Sc. in International Management,Senior
+d4a974a5-ea3b-4484-af3f-d6fa523084ef,Robert,Ware,andrew33@example.com,(979)503-9617,"44376 Dawson Summit
+West Sandraberg, MN 06412",B.Eng. in Electrical Engineering,Sophomore
+36f12183-2f21-4039-9644-7fbece91482a,Christopher,Mccoy,zimmermanangela@example.net,2529555470,"585 Christopher Locks
+South Douglashaven, NV 56012",M.Sc. in Applied Mathematics,Senior
+52baf9b8-f237-4bc1-a88a-825967828577,Jason,Matthews,oramos@example.com,(935)897-2686,"91240 Buchanan Estate Apt. 770
+Russellchester, AL 55496",M.Sc. in Mechanical Engineering,Sophomore
+207b1ffa-b70c-4704-a935-691854739dbd,Pamela,Morgan,coopermatthew@example.org,552-333-5029,"9181 Alexander Street Suite 187
+Crystalmouth, MH 80821",M.Sc. in Technology and Management,Sophomore
+f2f06424-737b-4ec5-ab72-747cf5910d19,Caleb,Allison,weberkristine@example.org,4596817690,"3853 Martin Ridges Suite 437
+Lake William, MN 47777",M.Sc. in Business Informatics,Sophomore
+ed783095-51ba-4a04-b837-b446697105e2,Alicia,Patterson,christopherbennett@example.org,8315671319,"04484 Jason Parks Apt. 526
+North Adam, OR 37034",B.Sc. in Artificial Intelligence,Freshman
+4a3022dd-e0b7-4d90-91db-a85e5e921627,Anthony,Carpenter,vhudson@example.net,(244)425-8403,"USNS Moore
+FPO AA 47045",M.Sc. in Applied Physics,Sophomore
+d58d263d-6f21-4a21-ad96-90c0f8d1970d,Angela,Lewis,brittany35@example.net,+1-978-448-2636x63049,"43708 Garcia Ridge Suite 309
+Lake Alejandro, VT 68170",B.Sc. in Healthcare Informatics,Junior
+8d4283af-48cd-497a-8e51-13d8a0e66459,Ryan,Johnson,mark68@example.com,001-471-556-6577x572,"66922 Warner Port Apt. 876
+West Thomas, UT 87115",M.Sc. in Applied Physics,Junior
+7c8370bf-5e65-47e5-bf1c-036035e3e6b2,Hannah,Cox,pamelafranklin@example.net,+1-992-664-0337x990,"2742 Mariah Manors
+Stoneport, WA 41563",B.Sc. in Applied Mathematics,Junior
+6636945c-9bfe-42e6-9d37-904dce9f2985,Edward,Walker,krojas@example.org,(826)901-9485,"69761 Alexa Ways Apt. 204
+South Christina, ME 19069",B.Eng. in Mechatronics,Freshman
+f7059ce0-a1ad-45bc-ab30-0ab52db140cb,Deborah,Barry,johnarroyo@example.org,(428)741-7563,"PSC 5200, Box 4346
+APO AA 45385",B.Eng. in Mechatronics,Sophomore
+9a301197-21c7-443f-acf6-146ed7fadbc6,Caitlyn,Lawrence,michellewalton@example.com,9263760640,"Unit 6679 Box 6671
+DPO AP 32450",M.Sc. in Technology and Management,Senior
+96995ebf-0c26-4fd4-8eb3-0a11e31c3206,Chad,Anderson,escott@example.net,+1-980-469-2399x930,"298 Crystal Garden Suite 614
+Lake Arthur, OH 91022",B.Sc. in Media Technology and Design,Junior
+b02faedb-5618-4cff-b2c2-972c7d769b66,Mackenzie,Dunn,janethill@example.net,3472240496,"01466 Brown Via
+South Ericamouth, AL 21015",B.Sc. in Healthcare Informatics,Freshman
+8f4ba933-a52d-4d01-ac8e-4531a672e3fd,Miranda,Spence,chadsheppard@example.com,+1-931-947-3566x03093,"0792 Moon Mall
+Brittanyberg, RI 51203",M.Sc. in Mechatronics,Senior
+a25439e7-2241-49a9-8b5c-808193506fbd,Allison,Brown,boydgabriela@example.net,8028374468,"Unit 8802 Box 9936
+DPO AP 42113",B.Sc. in Media Technology and Design,Junior
+30bfc3d7-b530-4e5d-848a-50ed0865cf3f,Shawn,Wright,andrew91@example.org,+1-316-253-7755x37653,"864 Petty Track Apt. 622
+East Adrianbury, PR 18771",B.Sc. in Artificial Intelligence,Sophomore
+266357a1-2140-429f-b3e9-e03cb208272b,Stephanie,Yang,owensrichard@example.org,(913)496-9932,"30890 Kimberly Garden Apt. 414
+Amandaburgh, WI 43547",M.Sc. in International Management,Junior
+948c5a44-ae1e-4f43-ba1c-d1b25c726eff,Christopher,Patterson,jsmith@example.org,922-299-0948x3283,"2319 Elizabeth Turnpike Apt. 357
+Port Jennifer, IN 79904",M.Sc. in Electrical Engineering and Information Technology,Senior
+1f586e7a-c4cb-4db9-97af-71bd2a40a6bf,Michael,Riddle,torresashley@example.net,8717736578,"221 Stout Orchard
+Port Jennifer, IN 23919",B.A. in International Management,Junior
+3af01804-6c47-4b04-a4bc-a254f239aed4,Carlos,Glenn,jchavez@example.net,5368598864,"76211 Anita Cove
+Reedshire, KS 11416",B.A. in Business Informatics,Freshman
+bfbf81e7-b51b-485a-b299-1abd387830ad,Angela,Peterson,swalker@example.net,001-235-659-4436x352,"67619 Katie Throughway
+West Marie, NV 87311",B.Sc. in Applied Computer Science,Junior
+983b3f47-c5db-4c64-9dd6-1e275f5dad75,Angela,Clarke,smithronald@example.com,(892)379-5318,"8292 Warren Greens
+Micheleshire, IN 07613",M.Sc. in Mechatronics,Freshman
+326d6071-13eb-48e3-a1ff-81eeb3c68d63,Alexandra,Freeman,dphillips@example.com,416.330.4480x197,"PSC 7837, Box 4296
+APO AE 77259",B.Sc. in Media Technology and Design,Sophomore
+54831ed8-6b40-4000-b68e-80c1bc8d948b,Christopher,Blair,cassandra79@example.net,(544)814-5520x25097,"508 Samantha Prairie
+Pittmantown, OH 54196",M.Sc. in Electrical Engineering and Information Technology,Senior
+0067feff-454e-447e-b0c2-b9835eab7dac,Susan,Davis,christophercooper@example.com,621-455-8998,"7529 Daniels Ports
+East Claire, CO 61828",B.Sc. in Applied Physics,Freshman
+4b2c6efd-bc91-42bf-a122-eb34153446d9,Ashley,Klein,william37@example.org,536.914.8684x4729,"4722 Wendy Harbors Suite 369
+Sandrabury, SC 75616",B.Eng. in Electrical Engineering,Senior
+8b3e984c-eea5-4435-b975-f2313f8855c9,David,Diaz,paulallen@example.com,659-364-5194x7714,"2101 Leonard Pike
+Carlview, DC 81572",M.Sc. in Electrical Engineering and Information Technology,Junior
+92f44f5b-08ad-44d7-a377-e0ab91955b6a,Robert,Holmes,johnberry@example.net,(568)272-1082x9409,"USNS Lara
+FPO AE 43857",M.Sc. in Applied Physics,Junior
+8bff88b5-09da-442e-b819-1d52ca1b4f64,Nathaniel,Davis,patricia05@example.net,5067353602,"779 Paul Fords
+North Bradyhaven, AR 43042",M.Sc. in Applied Computer Science,Freshman
+d8e0eb70-2991-4da1-8185-1e83fe08c4ce,Sean,Woods,emily89@example.net,364-956-8965x705,"488 Darrell Rapid Apt. 773
+North William, NV 88196",M.Sc. in Healthcare Informatics,Freshman
+d8f37c76-2b98-4b47-a383-c74daff28289,Brooke,Barnes,hendersonelizabeth@example.com,(412)773-7265x128,"69495 Brown Trace
+Grantchester, RI 59841",M.Sc. in International Management,Freshman
+a05778cc-24d2-4eb5-a8af-1844ac77c006,Katie,Mitchell,miguel60@example.com,001-869-644-2465x410,"138 Mcdaniel Ramp Apt. 172
+North Daniel, NM 47622",B.A. in International Management,Freshman
+34b71cb8-0448-47e0-873d-467afd53d581,Mary,Zimmerman,gina48@example.com,001-640-659-5947,"Unit 1553 Box 6380
+DPO AE 38651",M.Sc. in Applied Computer Science,Sophomore
+19a721ad-a7ea-4f0c-aaa4-7ac099b46a91,Jennifer,Sellers,mdavis@example.net,+1-960-978-6762x299,"401 Love Views Apt. 878
+East William, DC 94779",M.Sc. in Electrical Engineering and Information Technology,Junior
+c40653dc-b889-4666-acf8-0dc9adbe7def,Carolyn,Wheeler,dkeller@example.org,628-524-9227x357,"1615 Troy Hill
+North Amy, HI 89680",M.Sc. in Media Technology and Design,Sophomore
+4ea9609b-72b5-4d52-a2d2-74895ac2f842,William,Chapman,bconway@example.net,557-282-7391,"USNV Conley
+FPO AE 75447",M.Sc. in Applied Computer Science,Senior
+1c9ba262-b1c7-4c34-b0ae-616ef2bf3fd4,Ernest,Harvey,reederic@example.org,2442123745,"989 Burnett Burgs Suite 378
+New Angela, VT 43165",M.Sc. in Technology and Management,Sophomore
+156c9f68-12ec-4e40-8f50-879291e6f948,Marvin,Davis,jessica32@example.org,370.551.3819x8472,"606 Gallegos Radial
+Lake Brandyshire, NV 86563",B.Eng. in Electrical Engineering,Sophomore
+3c2cee83-56b9-4cb3-9775-f0a6f1f2b503,Gerald,Smith,gvalencia@example.com,7967852201,"52807 William Spur
+Andrewville, MP 21732",M.Sc. in Mechatronics,Sophomore
+5a570849-3249-4bf0-8f9f-404ae9497833,Jeremy,Thomas,oburke@example.net,001-299-404-4400,"7635 Graham Junction
+West Derrick, MD 64893",M.Sc. in Mechatronics,Junior
+c745c6e0-93fa-409d-ab04-f2d9e68485b9,Steven,Gonzalez,omartin@example.net,479-622-6474x46170,"15065 Stacey Courts Apt. 705
+South Kaitlyn, VI 18862",B.Sc. in Applied Mathematics,Junior
+621da647-1fbd-48b4-a3aa-7e40d96b75db,Randy,Wright,allisonsnow@example.net,(399)705-6815x74263,"95876 Moreno Glen Suite 008
+Hickmanchester, PR 40534",B.Sc. in Artificial Intelligence,Senior
+ffa4dcb4-8f5b-4523-bc08-7cc8e8cf655f,Rodney,Thomas,burtonjohn@example.net,834-545-8076x89355,"82232 Kendra Underpass
+Port Seth, NH 31048",M.Sc. in International Management,Junior
+55ec6780-55db-4685-8bfc-b9ad0659ba32,Gina,Brown,nicholas32@example.org,+1-286-382-1935x587,"9277 Shaw Ville
+Port James, CT 87225",B.Sc. in Media Technology and Design,Senior
+090fc95d-9364-4065-a73e-5cb8a35c9b31,Jason,Savage,xfigueroa@example.org,(879)950-5542x27893,"98301 Henson Port
+Greenborough, NE 48498",M.Sc. in Applied Computer Science,Senior
+2fee8675-6bd8-464e-82fc-0a50ef8f0f0a,Toni,Fox,scottgomez@example.org,+1-765-386-8269x919,"5692 Singh Station Apt. 888
+Deniseville, NV 07169",B.Sc. in Healthcare Informatics,Freshman
+02f39809-13a7-4d94-82d4-fa973b5ac31c,Luis,Brown,marialewis@example.org,8633870289,"4547 Peter Glen Apt. 267
+Aaronberg, NH 94384",M.Sc. in Mechatronics,Sophomore
+2480c53c-7fc8-43aa-9e2b-3f74f952c402,Lisa,Bishop,hjones@example.com,+1-616-506-7737x726,"614 Rebecca Radial
+Lake Haydenhaven, SC 29123",B.A. in International Management,Sophomore
+faad9dc2-3805-4fae-87e0-a04921b250ea,Julie,Parks,stevenmoore@example.net,352.833.6911,"68737 Curtis Mount
+Lucasmouth, HI 26315",B.A. in International Management,Junior
+d5c591b0-6042-40a4-985a-c15123d9b1de,Mark,Vazquez,heather10@example.com,350.622.1076x992,"6606 Mccarthy Islands
+Martinezland, NH 99075",B.Sc. in Applied Computer Science,Sophomore
+5e4f2139-1ef8-4f8c-b0d1-578f90511aa4,Laura,Davis,pdunn@example.com,803-721-6079x544,"2848 Nguyen Bypass
+West Eric, HI 53138",B.Sc. in Applied Physics,Freshman
+87024e63-add1-4d98-acce-a8bc4efc8786,Amy,Clark,zmora@example.com,(287)440-4758,"1580 Martinez Ridge Apt. 210
+West Christopherland, AK 72262",B.Sc. in Artificial Intelligence,Sophomore
+3caa7ed5-9e5e-43d9-a580-c13dfdf59904,Lisa,Molina,matthewturner@example.com,(476)347-8275,"997 Henderson Bridge
+Ashleyville, UT 12186",B.Sc. in Healthcare Informatics,Junior
+a6610dc6-da72-4dd5-8bd8-440fbed58afa,Jessica,Porter,sdurham@example.net,(807)973-1311,"6143 Gibson Summit Suite 474
+North Anthonyville, ND 70241",B.Sc. in Applied Mathematics,Freshman
+a7328aaa-5dfb-4640-8f92-c18473ac5191,Paula,Parks,travis24@example.org,001-746-761-5170x162,"037 Joseph Stravenue Suite 212
+Colestad, GU 49737",M.Sc. in Applied Mathematics,Senior
+89d769bd-5aab-4601-94d5-190c54eb75f0,Jonathan,Lawson,haydenvincent@example.org,968.213.4327,"138 Rebecca Fords Suite 335
+Jenniferstad, PW 05822",B.A. in International Management,Senior
+a7d52006-4f86-4267-915b-a8f615e7bea1,Raymond,Thompson,rcarlson@example.org,(575)619-1852,"03547 Lopez Estates Suite 484
+South Jacquelineview, ID 39346",M.Sc. in Media Technology and Design,Junior
+aee7752d-369b-4c84-91b5-f9c0c00ee058,Joel,Pugh,tbaker@example.org,584-312-8163x44321,"1048 Robert Drive Suite 275
+South Zachary, PW 86632",B.A. in Business Informatics,Junior
+b6fe8cab-92bd-4c55-8041-afaa4475b1f0,David,Armstrong,zmaldonado@example.net,289.494.2646x9022,"086 Hailey Parks
+Lucasstad, DC 85964",B.Eng. in Electrical Engineering,Sophomore
+fc00b72d-95af-4a83-8c1f-1b7313a01a11,Molly,Gates,tonya04@example.com,593-613-0318x8226,"761 Wendy Greens Apt. 471
+Monroeport, WA 43398",B.A. in Business Informatics,Sophomore
+cb07514c-aa33-4706-a32b-76dd37e3307f,Nicholas,Kelly,mcmahonjamie@example.org,001-698-570-1145,"Unit 2856 Box 6832
+DPO AP 53169",B.Sc. in Applied Computer Science,Sophomore
+1909f674-1007-4874-ade8-2670bb00ef08,Daniel,Bennett,fbuchanan@example.com,660-271-6668x2843,"6008 Nicole Garden
+Hollyport, GU 71996",B.Sc. in Applied Physics,Junior
+15d10641-e39c-4bfb-a32e-9233155b268d,Jeffrey,Cooper,juanwilliams@example.net,383-962-2589x83246,"72470 Julie Manor
+Jacobside, GU 12480",B.Sc. in Healthcare Informatics,Junior
+73e2fa41-eab8-48b7-9b40-e7b501e70957,Meredith,Russell,virginia22@example.com,280-358-1876,"3036 Myers Plaza Apt. 550
+North Angelatown, CA 08197",B.Eng. in Electrical Engineering,Junior
+d66ade74-91b3-414c-926d-a68ce4bf028c,Caitlin,Mcdaniel,bbrown@example.net,770-479-8359x1804,"9916 Ramsey Isle Suite 069
+East Belindaport, NC 58746",M.Sc. in Applied Mathematics,Sophomore
+b55c9405-eb1e-42c5-8b47-29c600983bb8,Daniel,Allen,ecrawford@example.net,(646)924-9180x90999,"93643 William Estate Apt. 262
+West Lisafort, PA 91946",M.Sc. in International Management,Sophomore
+26d12a7f-c1f5-47b3-80b8-dc5b7ace2048,Valerie,Garcia,kaitlynharris@example.net,+1-291-896-7962x550,"679 Greer Drives Apt. 785
+Katrinaville, IL 14312",M.Sc. in Applied Mathematics,Senior
+e8eda636-1e70-4180-9f8c-a56c80708e9d,Kyle,Moss,sara53@example.org,001-287-746-3972x931,"02694 Christine Causeway Suite 629
+North Melissa, WV 92134",B.Sc. in Applied Computer Science,Sophomore
+1cf93a64-cbee-4c57-a5e0-b422e9698dd4,Charles,Miller,eric01@example.net,818-310-2159,"326 Angel Extensions Suite 065
+Frazierfort, WY 90555",B.Sc. in Artificial Intelligence,Freshman
+31cae050-041d-4767-979a-a37b236ac5ec,Robert,Mckenzie,perkinschristine@example.net,001-666-546-0014x142,"57885 Tucker Ports Suite 314
+Davidfort, AL 29073",B.Eng. in Mechatronics,Senior
+21de134f-a0f8-4693-a184-97b68fe3bdb6,Anthony,Payne,emorales@example.org,651-611-4636x738,"75264 Tim Shores
+Louistown, WV 04395",M.Sc. in Applied Chemistry and Environmental Engineering,Senior
+7f42223e-12c8-47d1-a5f2-81e6cdff5b30,Gary,Blair,tammyrodriguez@example.org,(411)391-0234,"0875 Harvey Canyon
+East Michael, MO 35714",M.Sc. in Mechatronics,Junior
+2fdcfc5c-1ff5-46c4-ab2e-f43795abfe05,Olivia,Rodriguez,amandawilliams@example.net,+1-426-727-4410x07799,"285 Crystal Extension
+North Michaelmouth, AL 80011",M.Sc. in Applied Computer Science,Senior
+11f59ed1-8480-4481-abcd-2294518eee5a,Laura,Taylor,kirbysandra@example.com,(943)633-2842x8306,"94748 Haynes Garden Apt. 645
+South Anna, CT 21352",B.Eng. in Mechatronics,Freshman
+b67425b5-86ba-453e-b2e2-21c1a9a294ae,Monica,Miller,geoffreybruce@example.org,001-396-940-0585x070,"310 Katrina Lights
+East Lauren, AK 53669",M.Sc. in Media Technology and Design,Sophomore
+511297d9-14c0-45c2-a42b-ebc963be7f42,Matthew,Woods,vaughanchristopher@example.org,753-725-9767x53647,"4675 Johnson Garden Suite 808
+Lindaton, LA 76929",M.Sc. in Healthcare Informatics,Senior
+f43a3aa7-58f3-4f81-affd-b1cd45bb8566,Derek,Martinez,sean65@example.net,779-486-1344x2629,"719 Jones View
+Lake Monica, GA 42238",M.Sc. in Mechatronics,Freshman
+ddc60508-999a-4a19-8ca3-916c42b8fb5e,Jennifer,Grimes,halejessica@example.org,001-778-716-8577x741,"5853 Benitez Walks Suite 550
+Carpenterberg, NH 93052",M.Sc. in Applied Chemistry and Environmental Engineering,Junior
+289a512a-9bf9-4b76-9575-3508ee6eee51,Rita,White,dawsonmichelle@example.org,+1-335-245-0119,"66217 Lopez Springs Apt. 325
+Amyland, FM 47854",M.Sc. in Healthcare Informatics,Junior
+15803041-ca6c-4e4a-9251-1a4eb313a178,Thomas,Hernandez,butlerashley@example.com,2135273736,"339 Miller Springs Apt. 822
+Michellebury, AK 15489",M.Sc. in Mechanical Engineering,Sophomore
+cc274a31-028d-4a7b-9ae0-7cdf1e1067f5,Katie,Griffith,mhester@example.net,9672454747,"927 Amy Throughway
+Davidville, MO 88199",M.Sc. in Applied Chemistry and Environmental Engineering,Senior
+1fe04304-5dba-4aa2-8345-54e71e90d834,Caitlin,Best,danieljohnson@example.com,2845986515,"515 Christopher Radial
+Keithtown, NC 27519",M.Sc. in International Management,Senior
+5f032caa-b449-43c0-92bd-df10025c9ba3,Timothy,Nelson,walkeraaron@example.net,661-796-8099x161,"681 Patrick Unions Apt. 528
+New Robert, MT 72026",M.Sc. in Electrical Engineering and Information Technology,Junior
+f70beb11-5632-45ec-90a7-b20b28f21fe5,Nicole,Hernandez,qpollard@example.org,559.315.9003x1418,"944 Robert Way Suite 246
+North Ariel, DC 62485",M.Sc. in Business Informatics,Sophomore
+088b3828-15ea-4f10-847a-964eff9f0640,Shawn,Oconnor,rtravis@example.com,977.209.9137x05220,"1876 Kimberly Ramp Suite 743
+South David, DE 81465",M.Sc. in Media Technology and Design,Senior
+3bd16739-2ba1-4e3f-9f88-805c40d71203,Amy,Shaffer,murraymichael@example.com,+1-244-338-7716,"5092 Howell Vista
+Aprilside, MA 24975",B.Sc. in Applied Computer Science,Freshman
+eb21c3aa-3b80-4e39-827f-b64850aae4c0,Robert,Baker,hilljulia@example.com,(910)703-0783,"591 Jeffrey Pine
+Port Kylestad, AK 51261",M.Sc. in Applied Chemistry and Environmental Engineering,Sophomore
+86831066-9af7-4985-968d-b7646ee13eb0,Nicholas,Olson,thompsonmelissa@example.org,283-471-9603x86953,"1167 Hernandez Dam
+Reyeshaven, WI 96961",M.Sc. in Technology and Management,Freshman
+f6d93410-a44a-45e8-a93f-7f9aa1aa9d5f,Nancy,Evans,timothy67@example.com,(209)967-5298,"USCGC Ruiz
+FPO AA 87390",M.Sc. in International Management,Senior
+0d13553d-532c-4e45-b60d-79f9ec92c4c2,Crystal,Carroll,mary54@example.net,(315)241-0435x5615,"3594 Martinez Coves
+Port Robin, AZ 16133",B.Sc. in Applied Mathematics,Junior
+7e1f5fbe-1f3d-4d0d-b280-54297af6cbb1,Erik,Pennington,courtney93@example.net,001-902-377-1504,"63640 Macias Motorway
+Lake Vincent, IA 69427",M.Sc. in Healthcare Informatics,Sophomore
+8d2d5859-c6ff-433d-ac1d-3ecd5b64010d,Patrick,Mills,tanya13@example.net,788.555.8801x1708,"0819 Derek Mountains
+West Michaelside, ID 81946",M.Sc. in Applied Computer Science,Junior
+3a23d297-41ac-4832-9277-c85ce05af6f8,Douglas,Garcia,kathryn24@example.net,366.369.1865x159,"0826 Antonio Drives
+Michaelberg, FM 72073",B.Sc. in Applied Mathematics,Senior
+199296da-cb98-4e61-ac14-5f8989eae886,Mike,Gray,ashleyguerrero@example.net,375-836-4675x381,"4581 Yolanda Gateway
+West Andrewberg, WI 39455",B.A. in International Management,Junior
+e80c095d-949b-4d3d-be39-a53adadb71db,Debbie,Nelson,rebecca71@example.com,(954)682-5631x135,"1495 Ho Viaduct Apt. 981
+Potterland, PA 86372",B.Sc. in Healthcare Informatics,Junior
+7b0d12f5-db0e-4589-b1a6-8b60a9eaa320,Tracy,Olson,xpeters@example.org,866-433-5358,"PSC 1218, Box 0678
+APO AP 46397",M.Sc. in Applied Computer Science,Senior
+482c1fcf-8912-491a-8fd9-7a754ea08a2c,David,Neal,amylloyd@example.net,253-939-7467,"8035 Herrera Stravenue
+Christopherland, IL 08276",B.Sc. in Applied Mathematics,Senior
+bf694a3f-add2-4ba4-8b54-8e4192feb213,Laura,Castillo,christine47@example.net,(930)371-0304,"6906 Horne Islands Apt. 432
+Port David, MT 79726",B.A. in International Management,Freshman
+05293fa3-0e83-4541-97ae-d5e30c81e2e7,Amy,Brown,davidwatts@example.org,+1-472-544-0314x11379,"21050 Hudson Shore
+Kyleborough, UT 85744",B.Eng. in Mechatronics,Sophomore
+b4b7bf38-49b3-4673-bf3f-6fdf44bc7049,Kendra,Jackson,ismith@example.com,827.690.1482x48589,"202 Nelson Camp Apt. 665
+Ryanbury, WY 92655",M.Sc. in International Management,Freshman
+6ef48436-448e-4841-b2ca-4bc11947a1e7,Scott,Lucas,jennifer43@example.org,650-512-8070x8123,"08547 Cassandra Parkways
+Joshuamouth, VA 71823",M.Sc. in Electrical Engineering and Information Technology,Freshman
+d753fdde-2dd7-47be-8739-9f3ec93dccc5,Mary,Watkins,carpenterryan@example.net,930-554-2915x891,"3374 Steven Trail Apt. 080
+North Jerrymouth, AR 82464",B.Eng. in Electrical Engineering,Junior
+09bb0f20-ea87-4fb1-a8c1-aac51d051c55,Hannah,Taylor,jane62@example.com,929-958-5283x131,"93310 Louis Roads
+Port Tina, IL 13678",M.Sc. in Business Informatics,Junior
+2a230fce-fcfe-4788-896a-17a03d300832,Christopher,Hunter,turnernancy@example.com,(555)949-7292x78593,"40945 Gonzales Tunnel Suite 317
+Jessicaburgh, DC 72159",M.Sc. in Business Informatics,Junior
+8e09141a-b8e4-455c-8a4b-ecf29732abf7,Garrett,Byrd,harrisonnancy@example.org,+1-551-521-1966x6095,"749 Stephanie Flats Suite 944
+Lake Brianfort, TN 73319",M.Sc. in Business Informatics,Freshman
+93fc656e-f99e-440c-bbea-ae9e88fb1f96,Willie,Cole,hernandezmichelle@example.org,789-225-6938x680,"3278 Silva Parkway Suite 631
+Jennifertown, MO 82395",B.Eng. in Electrical Engineering,Sophomore
+efe7066e-0f99-40d8-a052-4f6094da3227,Lance,Miller,williamsanthony@example.com,(626)747-9629,"19892 Thomas Glen Apt. 241
+New Claire, CA 13234",B.Eng. in Electrical Engineering,Freshman
+7d5f729f-438e-443f-a5a3-b9b37f7ea283,Brittany,Young,bryan80@example.com,001-487-615-8784,"316 Allen Gardens Suite 946
+North Catherine, MN 40393",B.Sc. in Healthcare Informatics,Senior
+817020d8-4494-4f1b-9bb0-af63150be72d,Tara,Moore,brandonlee@example.com,001-393-239-4021,"391 Ryan Bypass
+Port Vanessaville, CT 84807",M.Sc. in Media Technology and Design,Sophomore
+c1f6f4a7-c2f0-4c7a-b2c0-1e6ad05feb66,Katherine,Lambert,edwardhansen@example.net,742-534-6226x7415,"0618 Hahn Ferry Apt. 574
+Lake Dennis, AS 62356",B.Sc. in Artificial Intelligence,Junior
+e317d1b1-ff6e-4cbe-b140-dca0d6a3a7a4,Darius,Cruz,rebecca98@example.net,558-237-0866x28801,"9647 Patrick Harbor
+New Sharonchester, OR 45675",B.A. in Business Informatics,Junior
+adca58f4-b1c1-4ad5-9389-b5c7d5094ed7,Claudia,Becker,huangnicholas@example.org,001-623-658-5545x453,"10597 Johnson Station Apt. 583
+Lake Lori, AR 34974",M.Sc. in International Management,Junior
+3afaf88e-63a2-4bfb-9c7b-670f4da15109,Brian,Green,rwalker@example.com,885.512.2439x14571,"83649 Ashley Lights
+Shawville, CT 03996",M.Sc. in Mechanical Engineering,Junior
+26655210-75ad-4bc3-86a1-81d7fff02041,Mary,Romero,mray@example.org,(285)423-8723,"700 Diane Streets
+Ruthville, VT 12281",M.Sc. in Mechatronics,Sophomore
+36d37b3d-086f-4a8a-8d93-8fa605a6fa10,Leon,Robinson,bnguyen@example.net,2415714393,"283 Kathryn Vista Apt. 056
+Carterfort, SC 19457",B.Eng. in Electrical Engineering,Senior
+c6d31bd6-33b6-47d9-982d-8e9a7f56e064,Kimberly,Sanchez,cindysingh@example.org,651-521-8904,"55701 Harrison Glens
+Port Sonia, ME 24393",M.Sc. in Electrical Engineering and Information Technology,Senior
+f3b4d8c1-8bcf-4256-adb4-b593f4e9fcdf,James,Rodriguez,michellehumphrey@example.com,+1-600-283-0893x94904,"01605 Smith Plaza
+Mcdonaldtown, CA 27330",M.Sc. in Mechatronics,Sophomore
+a3615880-3f95-4415-92ec-450355d7408e,Christopher,Hunter,john17@example.net,278-589-1855x59988,"7404 Stephanie Alley
+Johnberg, RI 50365",M.Sc. in Media Technology and Design,Junior
+fd6eca42-8a82-47e9-84e9-5059df0fabc0,James,Brown,joseph11@example.org,001-529-293-7376,"PSC 9685, Box 4571
+APO AE 77129",B.Sc. in Applied Computer Science,Freshman
+c7c2b3bf-68a9-40f4-89d3-4c555655871d,Eric,Gibson,fduarte@example.net,316-661-2652,"225 Nicole Motorway
+Millerberg, KY 16529",M.Sc. in Mechatronics,Junior
+cfd2e4d6-2844-4f9a-9614-227f14d26b21,Juan,Weaver,jeanettekramer@example.com,001-381-257-1655x72050,"66875 Barron Camp Apt. 815
+Lake Christine, NC 77432",M.Sc. in Mechanical Engineering,Sophomore

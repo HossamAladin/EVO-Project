@@ -1,0 +1,14 @@
+instructor_id,first_name,last_name,email,phone_number,department
+cff4ee54-8789-46e5-a995-15c0dea35275,Mary,Jordan,justinallen@example.org,300-421-1326x8799,Computer Science
+aec9a7a7-c8be-461b-8047-f0c97726edf1,Amy,Michael,michellecortez@example.org,362.446.5401,Mathematics
+d372a3ee-4ff5-48df-a5f2-7da725570f5e,Kathryn,Wong,pfarrell@example.com,756.697.3459x1355,Mathematics
+12fa2bc8-2060-41f1-a8ce-0ad8dc7c31e6,James,Shaffer,bmunoz@example.net,239.607.8471x331,Media Technology
+a12b297c-6ca7-436c-8318-08b5a05e1eea,Briana,Nelson,zhangjamie@example.net,(383)585-8414x55427,Healthcare Informatics
+7ceb34df-c5cd-4a6d-bbbd-ba393535b9d2,Shawn,Potts,lori31@example.org,+1-493-526-3451x7250,Chemistry
+449de61b-f2b5-406f-8445-17b960996d0a,Craig,Haynes,wprince@example.org,(686)465-9664x407,Business Administration
+fc70f172-e0d8-4202-a83b-a8d6cc75de10,Charles,Sexton,williamskatrina@example.org,(862)256-1107x54780,Business Administration
+0be1929c-a780-4078-9e98-6df4cf99c936,Heather,Molina,mpayne@example.org,(980)570-0598,Management
+d3f82f56-4d74-4c26-a4c7-d20f153383cb,James,Cole,becky48@example.org,256.745.2105x70146,Management
+c8a0eed4-ccd5-46fc-8b97-64b89728d342,Andrew,Patton,hannahphillips@example.net,(329)372-1614,Mechanical Engineering
+fe8c95dc-f314-472c-a317-83d7bb76fbc9,Ryan,Peters,lallen@example.com,(918)218-4576x42302,Physics
+79463069-f838-4edd-9438-cdc4c95e75a2,Susan,Brown,margarethernandez@example.org,+1-302-470-2973x533,Engineering
